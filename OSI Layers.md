@@ -144,4 +144,3 @@ Now it becomes human-readable again
 - Telegram displays:  
 _“Hello, how are you?”_
 
-## [[Network Attack by OSI layers]]
