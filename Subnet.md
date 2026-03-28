@@ -22,7 +22,6 @@ Assign only what is needed
 # 4.  Easier Management
 Easier to troubleshoot problems
 Easier to control network
- Key Concepts You MUST Know
 # 5. IP Address
 Example:
 
