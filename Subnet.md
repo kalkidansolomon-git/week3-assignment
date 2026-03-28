@@ -22,6 +22,7 @@ Assign only what is needed
 # 4.  Easier Management
 Easier to troubleshoot problems
 Easier to control network
+<pre>
 # 5. IP Address
 Example:
 
@@ -92,3 +93,4 @@ Purpose = security, performance, efficient IP usage
 Hosts = 2ⁿ − 2
 Subnets = 2^borrowed bits
 Block size = 256 − subnet value
+</pre>
