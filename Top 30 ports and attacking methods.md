@@ -30,8 +30,8 @@ Port 587 – SMTP (secure mail submission)
 Port 993 – IMAPS (secure email access)
 Port 3389 – RDP (remote desktop access)
 </pre>
+<pre>
 ## How Attackers Target Ports (Concept Only)
-Instead of “how to attack,” here’s how attacks generally happen:
 **1. Port Scanning**
 Attackers check which ports are open using tools (like scanners)
 Open port = possible entry point
@@ -67,4 +67,5 @@ Uses UDP ports like:
 **Defense**:
 Disable open public access
 Rate limiting
+</pre>
 
